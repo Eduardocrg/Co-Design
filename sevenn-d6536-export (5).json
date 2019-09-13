@@ -1,27 +1,33 @@
 {
   "portfolio" : {
     "design_de_app" : {
-      "categoria" : "app",
+      "categoria" : {
+        "descricao" : "Projetos que fiz de criar aplicativo",
+        "nome" : "app"
+      },
       "projetos" : {
         "portfolio" : {
-          "descricao" : "shjdfhkgs",
+          "descricao" : "Criação de um portfolio com os projetos feito na faculdade.",
           "titulo" : "portfolio_projeto"
         },
         "projeto_app" : {
-          "descricao" : "jagsfky",
+          "descricao" : "Criação de um aplicativo.",
           "titulo" : "aplicativo"
         }
       }
     },
     "design_fab_lab" : {
-      "categoria" : "design",
+      "categoria" : {
+        "descricao" : "Projetos de design no FabLab",
+        "nome" : "Fablab"
+      },
       "projetos" : {
         "amb" : {
-          "descricao" : "jgckuasf",
+          "descricao" : "Projeto para criar um produto que facilitasse o trabalho de um grupo específico de ambulantes.",
           "titulo" : "projeto_para_ambulante"
         },
         "estacao_meteorologica" : {
-          "descricao" : "jhkasdgkfhj",
+          "descricao" : "Estação meteorologica que mede temperatura, umidade, pressao e luminosidade.",
           "titulo" : "estacao_met"
         },
         "job" : {
@@ -31,36 +37,45 @@
       }
     },
     "eletronica" : {
-      "categoria" : "eletronica",
+      "categoria" : {
+        "descricao" : "Projetos relacionados a eletronica",
+        "nome" : "eletronica"
+      },
       "projetos" : {
         "acionamentos" : {
-          "descricao" : "ajgsfh",
+          "descricao" : "Projeto de controle de motor.",
           "titulo" : "controle_de_motor"
         }
       }
     },
     "matematica" : {
-      "categoria" : "matematica",
+      "categoria" : {
+        "descricao" : "Projetos com foco em matematica",
+        "nome" : "matematica"
+      },
       "projetos" : {
         "matvar" : {
-          "descricao" : "equipe: shgafkkg",
+          "descricao" : "equipe: Ainda não foi escolhida",
           "titulo" : "projeto_matvar"
         },
         "projeto_modsim" : {
-          "descricao" : "hgashkfdg",
+          "descricao" : "Modelagem e simulação de um sistema mecanico em python",
           "titulo" : "projeto_3_modsim"
         }
       }
     },
     "programacao" : {
-      "categoria" : "programacao",
+      "categoria" : {
+        "descricao" : "Projetos com foco em programação no computador.",
+        "nome" : "programacao"
+      },
       "projetos" : {
         "ciencia_dos_dados" : {
-          "descricao" : "lwldgwk",
+          "descricao" : "Projeto final de ciencia dos dados",
           "titulo" : "projeto_final_dados"
         },
         "pygame" : {
-          "descricao" : "saygfoiysgdf",
+          "descricao" : "Jogo feito no pygame",
           "titulo" : "jogo_pygame"
         }
       }
