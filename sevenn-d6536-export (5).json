@@ -1,0 +1,69 @@
+{
+  "portfolio" : {
+    "design_de_app" : {
+      "categoria" : "app",
+      "projetos" : {
+        "portfolio" : {
+          "descricao" : "shjdfhkgs",
+          "titulo" : "portfolio_projeto"
+        },
+        "projeto_app" : {
+          "descricao" : "jagsfky",
+          "titulo" : "aplicativo"
+        }
+      }
+    },
+    "design_fab_lab" : {
+      "categoria" : "design",
+      "projetos" : {
+        "amb" : {
+          "descricao" : "jgckuasf",
+          "titulo" : "projeto_para_ambulante"
+        },
+        "estacao_meteorologica" : {
+          "descricao" : "jhkasdgkfhj",
+          "titulo" : "estacao_met"
+        },
+        "job" : {
+          "descricao" : "feito com mdf, filamento de pla, pcb, e parafuso.",
+          "titulo" : "girafa"
+        }
+      }
+    },
+    "eletronica" : {
+      "categoria" : "eletronica",
+      "projetos" : {
+        "acionamentos" : {
+          "descricao" : "ajgsfh",
+          "titulo" : "controle_de_motor"
+        }
+      }
+    },
+    "matematica" : {
+      "categoria" : "matematica",
+      "projetos" : {
+        "matvar" : {
+          "descricao" : "equipe: shgafkkg",
+          "titulo" : "projeto_matvar"
+        },
+        "projeto_modsim" : {
+          "descricao" : "hgashkfdg",
+          "titulo" : "projeto_3_modsim"
+        }
+      }
+    },
+    "programacao" : {
+      "categoria" : "programacao",
+      "projetos" : {
+        "ciencia_dos_dados" : {
+          "descricao" : "lwldgwk",
+          "titulo" : "projeto_final_dados"
+        },
+        "pygame" : {
+          "descricao" : "saygfoiysgdf",
+          "titulo" : "jogo_pygame"
+        }
+      }
+    }
+  }
+}
