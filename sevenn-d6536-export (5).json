@@ -3,6 +3,7 @@
     "design_de_app" : {
       "categoria" : {
         "descricao" : "Projetos que fiz de criar aplicativo",
+        "img" : "https://image.shutterstock.com/image-vector/vector-modern-creative-flat-design-600w-340002677.jpg",
         "nome" : "app"
       },
       "projetos" : {
@@ -19,6 +20,7 @@
     "design_fab_lab" : {
       "categoria" : {
         "descricao" : "Projetos de design no FabLab",
+        "img" : "https://static.vecteezy.com/system/resources/previews/000/129/874/non_2x/vector-free-engineering-icons.jpg",
         "nome" : "Fablab"
       },
       "projetos" : {
@@ -39,6 +41,7 @@
     "eletronica" : {
       "categoria" : {
         "descricao" : "Projetos relacionados a eletronica",
+        "img" : "https://thumbs.dreamstime.com/b/icone-decorative-delle-parti-del-computer-messe-51222215.jpg",
         "nome" : "eletronica"
       },
       "projetos" : {
@@ -51,6 +54,7 @@
     "matematica" : {
       "categoria" : {
         "descricao" : "Projetos com foco em matematica",
+        "img" : "https://www.thehindu.com/education/88wkbz/article25014931.ece/alternates/FREE_615/24EPBSCAREERCUESjpg",
         "nome" : "matematica"
       },
       "projetos" : {
@@ -67,6 +71,7 @@
     "programacao" : {
       "categoria" : {
         "descricao" : "Projetos com foco em programação no computador.",
+        "img" : "https://image.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg",
         "nome" : "programacao"
       },
       "projetos" : {
